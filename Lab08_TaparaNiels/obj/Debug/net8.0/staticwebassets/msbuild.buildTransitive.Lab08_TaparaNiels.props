@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Lab08_TaparaNiels.props" />
+</Project>
